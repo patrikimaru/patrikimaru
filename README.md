@@ -1,4 +1,4 @@
-![Patrick Diesta | Web Developer](https://i.ytimg.com/vi/ImcLLToCGas/maxresdefault.jpg)
+![Patrick Diesta | Web Developer](https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif)
 # Patrick Diesta | Web Developer
 
 A 3rd Year BSIT Student major in Web Development currently learning MERN Stack at PHINMA University of Pangasinan
