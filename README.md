@@ -3,7 +3,7 @@
 
 A 3rd Year BSIT Student major in Web Development currently learning MERN Stack at PHINMA University of Pangasinan
 
-## Tech Stack 
+### Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,7 +19,7 @@ A 3rd Year BSIT Student major in Web Development currently learning MERN Stack a
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Github Stats
+### Github Stats
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikimaru&show_icons=true&theme=graywhite&card_width=400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni&theme=graywhite&card_width=400)
