@@ -1,12 +1,11 @@
 ![Patrick Diesta | Web Developer](https://i.pinimg.com/originals/92/75/1e/92751e0ca5fb8b890839121c472df4f3.gif)
 # Patrick Diesta | Web Developer
 
-A 3rd Year BSIT Student major in Web Development currently learning MERN Stack in PHINMA University of Pangasinan
+A 3rd Year BSIT Student major in Web Development currently learning MERN Stack at PHINMA University of Pangasinan
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?patrikimaru=anuraghazra&show_icons=true&bg_color=00000000)
 
-
+![Patrick Diesta | Web Developer](https://github-readme-stats.vercel.app/api?patrikimaru=anuraghazra&show_icons=true&bg_color=00000000)
 
 
 
