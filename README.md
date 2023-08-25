@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Patrick Diesta
+# Patrick Diesta | Web Developer
+Hi I'm Patrick Diesta, a 3rd Year BSIT Student major in Web Development currently learning MERN Stack in PHINMA UPang 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me pavi.diesta@phinmaed.com
