@@ -5,7 +5,7 @@ A 3rd Year BSIT Student major in Web Development currently learning MERN Stack a
 
 ### Github Stats
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikimaru&show_icons=true&theme=graywhite)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikimaru&show_icons=true&theme=graywhite&card_width=400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni&theme=graywhite&card_width=400)
 
 
