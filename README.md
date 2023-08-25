@@ -3,8 +3,9 @@
 
 A 3rd Year BSIT Student major in Web Development currently learning MERN Stack in PHINMA University of Pangasinan
 
-- 🌱 I’m currently learning MERN Stack 
-- 📫 How to reach me: pavi.diesta.up@phinmaed.com 
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?patrikimaru=anuraghazra&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?patrikimaru=anuraghazra&langs_count=8)
 
 
 
