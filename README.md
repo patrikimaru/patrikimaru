@@ -7,7 +7,6 @@ Hi I'm Patrick Diesta, a 3rd Year BSIT Student major in Web Development currentl
 - 📫 How to reach me: pavi.diesta.up@phinmaed.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/patrikimaru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ptrckdiesta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/patrick_teddd/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patrikimaru&show_icons=true&count_private=true)  
 
