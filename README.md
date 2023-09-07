@@ -1,4 +1,3 @@
-![Patrick Diesta | Web Developer](https://patrickdiesta.vercel.app/)
 # Patrick Diesta | Web Developer
 
 A 3rd Year BSIT Student major in Web Development currently learning MERN Stack at PHINMA University of Pangasinan
